@@ -1,0 +1,1226 @@
+{
+  "alpaca_en": {
+    "file_name": "alpaca_data_en_52k.json",
+    "file_sha1": "607f94a7f581341e59685aef32f531095232cf23"
+  },
+  "alpaca_zh": {
+    "file_name": "alpaca_data_zh_51k.json",
+    "file_sha1": "0016a4df88f523aad8dc004ada7575896824a0dc"
+  },
+  "alpaca_gpt4_en": {
+    "file_name": "alpaca_gpt4_data_en.json",
+    "file_sha1": "647f4ad447bd993e4b6b6223d1be15208bab694a"
+  },
+  "alpaca_gpt4_zh": {
+    "file_name": "alpaca_gpt4_data_zh.json",
+    "file_sha1": "3eaa3bda364ccdd59925d7448a698256c31ef845"
+  },
+  "aeslc_test": {
+    "file_name": "flan_v1/aeslc_test.json",
+    "file_sha1": "342fe8dbba15747df29ab9c1159bd13c97e5a34b"
+  },
+  "aeslc_train": {
+    "file_name": "flan_v1/aeslc_train.json",
+    "file_sha1": "64ed8cea3d4bb02a2cbe8791383de22807461bd3"
+  },
+  "aeslc_validation": {
+    "file_name": "flan_v1/aeslc_validation.json",
+    "file_sha1": "367e17e685489b603067621c747a54f4f434e8f3"
+  },
+  "ag_news_subset_test": {
+    "file_name": "flan_v1/ag_news_subset_test.json",
+    "file_sha1": "6f8fa4578e68fdc3d3f018a420cd860b3e7adf45"
+  },
+  "ag_news_subset_train": {
+    "file_name": "flan_v1/ag_news_subset_train.json",
+    "file_sha1": "c91f06fc75ae00235901b335ac41449da8f8c9bd"
+  },
+  "ag_news_subset_validation": {
+    "file_name": "flan_v1/ag_news_subset_validation.json",
+    "file_sha1": "f40e5584acabbb290c34a02374a30bbc883095bd"
+  },
+  "all_tasks_sample_30k": {
+    "file_name": "flan_v1/all_tasks_sample_30k.json",
+    "file_sha1": "0c432507b8ffc437edb9675fa6c0561fd984189a"
+  },
+  "all_tasks_sample_50k": {
+    "file_name": "flan_v1/all_tasks_sample_50k.json",
+    "file_sha1": "ae2f8e6cbc12ce7a540519a32b746d4bb9767056"
+  },
+  "anli_r1_test": {
+    "file_name": "flan_v1/anli_r1_test.json",
+    "file_sha1": "00d53bb27c4468beea89126485f6921ae886da1a"
+  },
+  "anli_r1_train": {
+    "file_name": "flan_v1/anli_r1_train.json",
+    "file_sha1": "40fac11d5a5dcc4c987912414f45dfe23f25d32b"
+  },
+  "anli_r1_validation": {
+    "file_name": "flan_v1/anli_r1_validation.json",
+    "file_sha1": "1442f17408bacfe252f7ebce3d46ad566ef568b8"
+  },
+  "anli_r2_test": {
+    "file_name": "flan_v1/anli_r2_test.json",
+    "file_sha1": "60da8ee91b9f662f79362f7533012fa38b1ecbbc"
+  },
+  "anli_r2_train": {
+    "file_name": "flan_v1/anli_r2_train.json",
+    "file_sha1": "f5092f9d7d4b0dcabf74c032e5c4e9ead9c6a95d"
+  },
+  "anli_r2_validation": {
+    "file_name": "flan_v1/anli_r2_validation.json",
+    "file_sha1": "49b8d08fad33861b26fc32999a4c5f2cb57075df"
+  },
+  "anli_r3_test": {
+    "file_name": "flan_v1/anli_r3_test.json",
+    "file_sha1": "b668e05f584c804ea5798e4ee69af10cb134eef7"
+  },
+  "anli_r3_train": {
+    "file_name": "flan_v1/anli_r3_train.json",
+    "file_sha1": "9466287a282bba69a08247a21e812590632638ac"
+  },
+  "anli_r3_validation": {
+    "file_name": "flan_v1/anli_r3_validation.json",
+    "file_sha1": "c8b1698709cf336ef1956da9be130c8a87a9a391"
+  },
+  "arc_challenge_test": {
+    "file_name": "flan_v1/arc_challenge_test.json",
+    "file_sha1": "fcb827a02ee43472e7a744c36c74f2a62c8935ee"
+  },
+  "arc_challenge_train": {
+    "file_name": "flan_v1/arc_challenge_train.json",
+    "file_sha1": "f19f26efdf33fb02101c3c501788c11684569c61"
+  },
+  "arc_challenge_validation": {
+    "file_name": "flan_v1/arc_challenge_validation.json",
+    "file_sha1": "19b924d8fac522b68173d0e0b7c1a0e5029b8987"
+  },
+  "arc_easy_test": {
+    "file_name": "flan_v1/arc_easy_test.json",
+    "file_sha1": "9d0ea0b940523825a49b7b24dfbcd77077aac16c"
+  },
+  "arc_easy_train": {
+    "file_name": "flan_v1/arc_easy_train.json",
+    "file_sha1": "a6b7ecf3d1094c939a94a867ad2f6b8c9c7e63d1"
+  },
+  "arc_easy_validation": {
+    "file_name": "flan_v1/arc_easy_validation.json",
+    "file_sha1": "99d1a4e099f9fb8f31db6f61d2ec9119fa7ffa25"
+  },
+  "bool_q_test": {
+    "file_name": "flan_v1/bool_q_test.json",
+    "file_sha1": "75e376e6f79ad6d082fa1ef6717d00896ef82678"
+  },
+  "bool_q_train": {
+    "file_name": "flan_v1/bool_q_train.json",
+    "file_sha1": "19b11d3501330db58a0aa35818f2bd3fc56c5ce6"
+  },
+  "bool_q_validation": {
+    "file_name": "flan_v1/bool_q_validation.json",
+    "file_sha1": "3d31043096a8935e814884fcc8f84c3991ffb14d"
+  },
+  "cb_test": {
+    "file_name": "flan_v1/cb_test.json",
+    "file_sha1": "fa35c87c1ddb6e143ae6337c910750026d297ecf"
+  },
+  "cb_train": {
+    "file_name": "flan_v1/cb_train.json",
+    "file_sha1": "f6e1b023f654c68ec7f38d21167b0126a9bd2f15"
+  },
+  "cb_validation": {
+    "file_name": "flan_v1/cb_validation.json",
+    "file_sha1": "fef28e34a901de43c42622a114a6fd1214fdcc74"
+  },
+  "cnn_dailymail_test": {
+    "file_name": "flan_v1/cnn_dailymail_test.json",
+    "file_sha1": "468cf0fb0ad58d2838e72115bd9e6f382730a7e3"
+  },
+  "cnn_dailymail_train": {
+    "file_name": "flan_v1/cnn_dailymail_train.json",
+    "file_sha1": "79cb8c910208262df07d7bcdf90d676480bb09b7"
+  },
+  "cnn_dailymail_validation": {
+    "file_name": "flan_v1/cnn_dailymail_validation.json",
+    "file_sha1": "663f5f0bcefbf2e516cad2bf9b2052fda7c552d2"
+  },
+  "cola_test": {
+    "file_name": "flan_v1/cola_test.json",
+    "file_sha1": "bed5591734352be53cfacf22d999188be8dbbf0e"
+  },
+  "cola_train": {
+    "file_name": "flan_v1/cola_train.json",
+    "file_sha1": "b6803d1686a3e62e16a40bad3af6e68e2c1b1248"
+  },
+  "cola_validation": {
+    "file_name": "flan_v1/cola_validation.json",
+    "file_sha1": "c17dc1bdf4fbdbedb3bb37fc4b2cb25ae3f7be1a"
+  },
+  "common_gen_test": {
+    "file_name": "flan_v1/common_gen_test.json",
+    "file_sha1": "41bd1ea32d6faa7cd922bdf04fe0d93c231932ae"
+  },
+  "common_gen_train": {
+    "file_name": "flan_v1/common_gen_train.json",
+    "file_sha1": "561f23a60fdec3d5898f3c2aeb1b48af7e8af454"
+  },
+  "common_gen_validation": {
+    "file_name": "flan_v1/common_gen_validation.json",
+    "file_sha1": "e86547dac499dab6bd5ef631806d06a9b614406e"
+  },
+  "copa_test": {
+    "file_name": "flan_v1/copa_test.json",
+    "file_sha1": "f57630339fa41be4c2942765c5e7f3abac2c5004"
+  },
+  "copa_train": {
+    "file_name": "flan_v1/copa_train.json",
+    "file_sha1": "b70e1397e75195794e63f00b6e46c26d39224235"
+  },
+  "copa_validation": {
+    "file_name": "flan_v1/copa_validation.json",
+    "file_sha1": "e9286ee095b7acbde4f29ac3cae535ba8a2d5ae8"
+  },
+  "coqa_test": {
+    "file_name": "flan_v1/coqa_test.json",
+    "file_sha1": "3d1153e3d0d28c461c3b3667240b281f6c98c03f"
+  },
+  "coqa_train": {
+    "file_name": "flan_v1/coqa_train.json",
+    "file_sha1": "4cc8d04b2bbdeb349be8954e9b7a3ec6307de0dd"
+  },
+  "coqa_validation": {
+    "file_name": "flan_v1/coqa_validation.json",
+    "file_sha1": "4b893df89b02252d9b5dac82b67df605ea88eb7f"
+  },
+  "cosmos_qa_test": {
+    "file_name": "flan_v1/cosmos_qa_test.json",
+    "file_sha1": "94d77c41c60c571580a8bb94dd9b44d93c4ac0df"
+  },
+  "cosmos_qa_train": {
+    "file_name": "flan_v1/cosmos_qa_train.json",
+    "file_sha1": "12ff9c13c759002f3faf53339f4eac96471d2b92"
+  },
+  "cosmos_qa_validation": {
+    "file_name": "flan_v1/cosmos_qa_validation.json",
+    "file_sha1": "58227ab7651aba462ae3a18a32bf66124c812af0"
+  },
+  "dart_test": {
+    "file_name": "flan_v1/dart_test.json",
+    "file_sha1": "12474786750293b06b11136893cba417b1b59e04"
+  },
+  "dart_train": {
+    "file_name": "flan_v1/dart_train.json",
+    "file_sha1": "323b5437b021a671413cedb1322b23dc510e90e9"
+  },
+  "dart_validation": {
+    "file_name": "flan_v1/dart_validation.json",
+    "file_sha1": "a9d254622f2b370085d75e787f88da792646f070"
+  },
+  "definite_pronoun_resolution_test": {
+    "file_name": "flan_v1/definite_pronoun_resolution_test.json",
+    "file_sha1": "42b2286d9e80bce5e2e7b88af5f24e39fc0d9501"
+  },
+  "definite_pronoun_resolution_train": {
+    "file_name": "flan_v1/definite_pronoun_resolution_train.json",
+    "file_sha1": "4bc131e1dd71530d0afaa36fa4ce288ccd18ad82"
+  },
+  "definite_pronoun_resolution_validation": {
+    "file_name": "flan_v1/definite_pronoun_resolution_validation.json",
+    "file_sha1": "98e8b2cbd47e9ff01898cbfbb03898e3b8399a8e"
+  },
+  "drop_test": {
+    "file_name": "flan_v1/drop_test.json",
+    "file_sha1": "5f18a145c3c6206002423445e108a21dbabf7316"
+  },
+  "drop_train": {
+    "file_name": "flan_v1/drop_train.json",
+    "file_sha1": "315989f6eebd8eaf85213ed41cdf6c88e2ac8170"
+  },
+  "drop_validation": {
+    "file_name": "flan_v1/drop_validation.json",
+    "file_sha1": "db79323e839c925c767ee5490027f81ef2bb1181"
+  },
+  "e2e_nlg_test": {
+    "file_name": "flan_v1/e2e_nlg_test.json",
+    "file_sha1": "a92a4cb6bfc6a2426cc2b006255715963a8ef479"
+  },
+  "e2e_nlg_train": {
+    "file_name": "flan_v1/e2e_nlg_train.json",
+    "file_sha1": "09824e8d4dcc0aabe3d4e86b747f1a6d1b9032a3"
+  },
+  "e2e_nlg_validation": {
+    "file_name": "flan_v1/e2e_nlg_validation.json",
+    "file_sha1": "6630c2c797ffc3177be5d3899e952c2f5bfe0e85"
+  },
+  "fix_punct_test": {
+    "file_name": "flan_v1/fix_punct_test.json",
+    "file_sha1": "ddf6cfee04420042f3c87f07607f7a7ce271652d"
+  },
+  "fix_punct_train": {
+    "file_name": "flan_v1/fix_punct_train.json",
+    "file_sha1": "2c54c7d630e26bd361a79e80ba4aca9240096f18"
+  },
+  "fix_punct_validation": {
+    "file_name": "flan_v1/fix_punct_validation.json",
+    "file_sha1": "1b3a5198c8b386d069b9a1e77fe2f29aea6fe965"
+  },
+  "gigaword_test": {
+    "file_name": "flan_v1/gigaword_test.json",
+    "file_sha1": "1a57bf301ac980f3f32fb8318fa48c898a6a0803"
+  },
+  "gigaword_train": {
+    "file_name": "flan_v1/gigaword_train.json",
+    "file_sha1": "d401b81b6145900c3d0b8e8101f9e2afa72054f7"
+  },
+  "gigaword_validation": {
+    "file_name": "flan_v1/gigaword_validation.json",
+    "file_sha1": "6a4058b9f61a56673e0e332d1fb71a1c690f2147"
+  },
+  "glue_mrpc_test": {
+    "file_name": "flan_v1/glue_mrpc_test.json",
+    "file_sha1": "5efe96d2adc9be65b94dddca01cb66a158a23aa2"
+  },
+  "glue_mrpc_train": {
+    "file_name": "flan_v1/glue_mrpc_train.json",
+    "file_sha1": "ce12230274178c65d5b6a65dcdd8f3afac1bb587"
+  },
+  "glue_mrpc_validation": {
+    "file_name": "flan_v1/glue_mrpc_validation.json",
+    "file_sha1": "b6cddd94554ee251e29b6dda4e33ce7b94fcdfa1"
+  },
+  "glue_qqp_test": {
+    "file_name": "flan_v1/glue_qqp_test.json",
+    "file_sha1": "b8c29308d2123ac54dddeeb482c88795ac36782f"
+  },
+  "glue_qqp_train": {
+    "file_name": "flan_v1/glue_qqp_train.json",
+    "file_sha1": "d749520d1f0f749387d2c1d4f172c44f9355d976"
+  },
+  "glue_qqp_validation": {
+    "file_name": "flan_v1/glue_qqp_validation.json",
+    "file_sha1": "ec60661d817fb949182a161231c0864bd5629846"
+  },
+  "hellaswag_test": {
+    "file_name": "flan_v1/hellaswag_test.json",
+    "file_sha1": "a3b12bae053b2418dd0ad2b45135ae665b903d33"
+  },
+  "hellaswag_train": {
+    "file_name": "flan_v1/hellaswag_train.json",
+    "file_sha1": "e0fc6fd353b02fb27ec5b39e2c2ad837564cb145"
+  },
+  "hellaswag_validation": {
+    "file_name": "flan_v1/hellaswag_validation.json",
+    "file_sha1": "14db01041f30133657a776f3bf6b15f9240bad54"
+  },
+  "imdb_reviews_test": {
+    "file_name": "flan_v1/imdb_reviews_test.json",
+    "file_sha1": "a562cae9a46e713d360d0b5ae99f5c45482d9747"
+  },
+  "imdb_reviews_train": {
+    "file_name": "flan_v1/imdb_reviews_train.json",
+    "file_sha1": "3170f68341151c539fbaad9f4f1a3fa3540b985e"
+  },
+  "imdb_reviews_validation": {
+    "file_name": "flan_v1/imdb_reviews_validation.json",
+    "file_sha1": "dcd427f099dc1e08247b8668a31381e7178eaac0"
+  },
+  "math_dataset_test": {
+    "file_name": "flan_v1/math_dataset_test.json",
+    "file_sha1": "cf915a1c4f8fc9c09fdebbb10cc0f0348a434bd8"
+  },
+  "math_dataset_train": {
+    "file_name": "flan_v1/math_dataset_train.json",
+    "file_sha1": "82d7477cb78ac4a73a840f7cb3dc51e5da0115b1"
+  },
+  "math_dataset_validation": {
+    "file_name": "flan_v1/math_dataset_validation.json",
+    "file_sha1": "8db7b1c7adc1e0bf9f096486d7e6520c5125b4b9"
+  },
+  "mnli_matched_test": {
+    "file_name": "flan_v1/mnli_matched_test.json",
+    "file_sha1": "eee15b5b2bedee7f96bebcbadfc4c7ddfb123e38"
+  },
+  "mnli_matched_train": {
+    "file_name": "flan_v1/mnli_matched_train.json",
+    "file_sha1": "14fcd776c98f7970affca0ca11c0797d35699872"
+  },
+  "mnli_matched_validation": {
+    "file_name": "flan_v1/mnli_matched_validation.json",
+    "file_sha1": "53bdde97597b3d3e61f1d11662b35409119e46d8"
+  },
+  "mnli_mismatched_test": {
+    "file_name": "flan_v1/mnli_mismatched_test.json",
+    "file_sha1": "d402ca20996957220f20384958672abf4b34357b"
+  },
+  "mnli_mismatched_train": {
+    "file_name": "flan_v1/mnli_mismatched_train.json",
+    "file_sha1": "c95c2cdd5ce01811c10846a410c584eb0e3340eb"
+  },
+  "mnli_mismatched_validation": {
+    "file_name": "flan_v1/mnli_mismatched_validation.json",
+    "file_sha1": "9a08519ed4a5de55938ea625ececfd6ab74659a4"
+  },
+  "multi_news_test": {
+    "file_name": "flan_v1/multi_news_test.json",
+    "file_sha1": "be8c1cf710620f3c7186a55b1f63be053cb319c3"
+  },
+  "multi_news_train": {
+    "file_name": "flan_v1/multi_news_train.json",
+    "file_sha1": "3f0f9c5c65f5e175d851f24bf36527432d72fae1"
+  },
+  "multi_news_validation": {
+    "file_name": "flan_v1/multi_news_validation.json",
+    "file_sha1": "a460a6696ab9aa81321761da64deb24fbbc1510f"
+  },
+  "multirc_test": {
+    "file_name": "flan_v1/multirc_test.json",
+    "file_sha1": "7bff544b3d1eda8936001cc6fe7dc38bf2c7d5c5"
+  },
+  "multirc_train": {
+    "file_name": "flan_v1/multirc_train.json",
+    "file_sha1": "1175932023bba6cf9f76cfe6a1e80c374b7b09c7"
+  },
+  "multirc_validation": {
+    "file_name": "flan_v1/multirc_validation.json",
+    "file_sha1": "25770108f5f1780ecb92badb4e46dd79c030847a"
+  },
+  "natural_questions_test": {
+    "file_name": "flan_v1/natural_questions_test.json",
+    "file_sha1": "78790380df0d3ee9ae2c936115548dc7a68bb850"
+  },
+  "natural_questions_train": {
+    "file_name": "flan_v1/natural_questions_train.json",
+    "file_sha1": "6df8fc936c40addae06d9ca353994621e344c150"
+  },
+  "natural_questions_validation": {
+    "file_name": "flan_v1/natural_questions_validation.json",
+    "file_sha1": "dc2c8635b5b17a37cf7985e4fb0db7deadb6c118"
+  },
+  "newsroom_test": {
+    "file_name": "flan_v1/newsroom_test.json",
+    "file_sha1": "c66a0a82df6735231d37e334fbfa611200b90d5f"
+  },
+  "newsroom_train": {
+    "file_name": "flan_v1/newsroom_train.json",
+    "file_sha1": "da1b32c95bbc3b82ffe0a17ec0c464554daaf599"
+  },
+  "newsroom_validation": {
+    "file_name": "flan_v1/newsroom_validation.json",
+    "file_sha1": "d9c0ebfa3354689f69b7d6808640a8e00bdc873d"
+  },
+  "openbookqa_test": {
+    "file_name": "flan_v1/openbookqa_test.json",
+    "file_sha1": "96195fa464010fd418d357887be6bfba6a9b8f2a"
+  },
+  "openbookqa_train": {
+    "file_name": "flan_v1/openbookqa_train.json",
+    "file_sha1": "1abff667d0337bc716c31f1c4fb1eef73475019c"
+  },
+  "openbookqa_validation": {
+    "file_name": "flan_v1/openbookqa_validation.json",
+    "file_sha1": "fcc47391a65cebb130b87e77e5606247b2b31226"
+  },
+  "opinion_abstracts_idebate_test": {
+    "file_name": "flan_v1/opinion_abstracts_idebate_test.json",
+    "file_sha1": "22a1361ce5990176366691d7dfa83faa762e21c4"
+  },
+  "opinion_abstracts_idebate_train": {
+    "file_name": "flan_v1/opinion_abstracts_idebate_train.json",
+    "file_sha1": "e4a86f54501667db05c4777cacf185f4c76143fb"
+  },
+  "opinion_abstracts_idebate_validation": {
+    "file_name": "flan_v1/opinion_abstracts_idebate_validation.json",
+    "file_sha1": "639f966a41b931d44a616b1ed20b6b9d875db1a4"
+  },
+  "opinion_abstracts_rotten_tomatoes_test": {
+    "file_name": "flan_v1/opinion_abstracts_rotten_tomatoes_test.json",
+    "file_sha1": "7a98737f40026535ede1f317950e3732b2c8d856"
+  },
+  "opinion_abstracts_rotten_tomatoes_train": {
+    "file_name": "flan_v1/opinion_abstracts_rotten_tomatoes_train.json",
+    "file_sha1": "e97176faaf7055e307c357f3f2717c5deded04c5"
+  },
+  "opinion_abstracts_rotten_tomatoes_validation": {
+    "file_name": "flan_v1/opinion_abstracts_rotten_tomatoes_validation.json",
+    "file_sha1": "a17e13c8f8624c846c218c0bc9549e010a5a373e"
+  },
+  "para_crawl_enes_test": {
+    "file_name": "flan_v1/para_crawl_enes_test.json",
+    "file_sha1": "b8ca1611beb1415662af3b56c0722ad8c41c0008"
+  },
+  "para_crawl_enes_train": {
+    "file_name": "flan_v1/para_crawl_enes_train.json",
+    "file_sha1": "01f72243b9ca5ae3f67d394f968fe1a3549196f6"
+  },
+  "para_crawl_enes_validation": {
+    "file_name": "flan_v1/para_crawl_enes_validation.json",
+    "file_sha1": "1b530996962dc2db341bad07f02c166715e47b66"
+  },
+  "paws_wiki_test": {
+    "file_name": "flan_v1/paws_wiki_test.json",
+    "file_sha1": "8171422e517877f245b1b1685ada20f598970f3b"
+  },
+  "paws_wiki_train": {
+    "file_name": "flan_v1/paws_wiki_train.json",
+    "file_sha1": "9d946f9a0a80726602da5ba245576da06329c0a5"
+  },
+  "paws_wiki_validation": {
+    "file_name": "flan_v1/paws_wiki_validation.json",
+    "file_sha1": "2db3bad952484091e1be7f7d20aaecc549de2752"
+  },
+  "piqa_test": {
+    "file_name": "flan_v1/piqa_test.json",
+    "file_sha1": "8bec5e365cdd8596264605d66ac8c3b95f6bca9f"
+  },
+  "piqa_train": {
+    "file_name": "flan_v1/piqa_train.json",
+    "file_sha1": "9d5ef6655a9f159b674414485bff67223b99dc9f"
+  },
+  "piqa_validation": {
+    "file_name": "flan_v1/piqa_validation.json",
+    "file_sha1": "bfc4176435b2664783cfbbb70ea0dd7cebb7ee88"
+  },
+  "qnli_test": {
+    "file_name": "flan_v1/qnli_test.json",
+    "file_sha1": "973e8a6b2dea7b1a29aa9263eff8a68c9c60b85e"
+  },
+  "qnli_train": {
+    "file_name": "flan_v1/qnli_train.json",
+    "file_sha1": "93c6ff296e8ff9872d4c9b8192848c1c50fb9707"
+  },
+  "qnli_validation": {
+    "file_name": "flan_v1/qnli_validation.json",
+    "file_sha1": "0fdca2298a757d3adf42c21dae72d78d870aadb5"
+  },
+  "quac_test": {
+    "file_name": "flan_v1/quac_test.json",
+    "file_sha1": "0a5f44f3a60f9c9dcecf2e6a4bd472c5083913a8"
+  },
+  "quac_train": {
+    "file_name": "flan_v1/quac_train.json",
+    "file_sha1": "7fcdb998528d50af5091308b98e1cb1842857f47"
+  },
+  "quac_validation": {
+    "file_name": "flan_v1/quac_validation.json",
+    "file_sha1": "8573f133383c9b61d0a3cc4d1b5a477790152978"
+  },
+  "record_test": {
+    "file_name": "flan_v1/record_test.json",
+    "file_sha1": "283657a207700e86b8c945e40e7270817a5bb96d"
+  },
+  "record_train": {
+    "file_name": "flan_v1/record_train.json",
+    "file_sha1": "fa0abae74973551b5d61ac51c402d651848dcce3"
+  },
+  "record_validation": {
+    "file_name": "flan_v1/record_validation.json",
+    "file_sha1": "0db02a4c9fce3926add5c5b0e801a73a104e1bcc"
+  },
+  "rte_test": {
+    "file_name": "flan_v1/rte_test.json",
+    "file_sha1": "becdc0ea18a016acb46bc612888b0c21a908febd"
+  },
+  "rte_train": {
+    "file_name": "flan_v1/rte_train.json",
+    "file_sha1": "e8c4604d1186632c33dfe0f52092805904e98725"
+  },
+  "rte_validation": {
+    "file_name": "flan_v1/rte_validation.json",
+    "file_sha1": "e8e826a5c99c74b7a065b6027d815e52f759927c"
+  },
+  "samsum_test": {
+    "file_name": "flan_v1/samsum_test.json",
+    "file_sha1": "d33cdc97cf844b9be5a924049bf971b0b0e9e77d"
+  },
+  "samsum_train": {
+    "file_name": "flan_v1/samsum_train.json",
+    "file_sha1": "3996c92dbc8d50659d4822c2042c0403e4a2baae"
+  },
+  "samsum_validation": {
+    "file_name": "flan_v1/samsum_validation.json",
+    "file_sha1": "85c991c69f5043fb7c710dfa29928616cd64a00d"
+  },
+  "sentiment140_test": {
+    "file_name": "flan_v1/sentiment140_test.json",
+    "file_sha1": "d2a0d537636b568be13502a1aac79658b223014d"
+  },
+  "sentiment140_train": {
+    "file_name": "flan_v1/sentiment140_train.json",
+    "file_sha1": "939dd0e3f475c2ed0d26b14f8439ba119dac9005"
+  },
+  "sentiment140_validation": {
+    "file_name": "flan_v1/sentiment140_validation.json",
+    "file_sha1": "d1dd60c40388dbc830fa04c3b7bceb4a0a263059"
+  },
+  "snli_test": {
+    "file_name": "flan_v1/snli_test.json",
+    "file_sha1": "aebb2a050c29f50c593aeeca27aeb01a580805c6"
+  },
+  "snli_train": {
+    "file_name": "flan_v1/snli_train.json",
+    "file_sha1": "b30e801f40bbd9c392ca86a3b793fd5882f45719"
+  },
+  "snli_validation": {
+    "file_name": "flan_v1/snli_validation.json",
+    "file_sha1": "e135e792d0a041eecd18703d0e50fa056e77fb70"
+  },
+  "squad_v1_test": {
+    "file_name": "flan_v1/squad_v1_test.json",
+    "file_sha1": "9b14e3d8147629592a81d0263d4c64b2e6da0647"
+  },
+  "squad_v1_train": {
+    "file_name": "flan_v1/squad_v1_train.json",
+    "file_sha1": "81db9e53a3518fade459e299798ce0089137125e"
+  },
+  "squad_v1_validation": {
+    "file_name": "flan_v1/squad_v1_validation.json",
+    "file_sha1": "40c6fef4c95a7f8e23c12a8894d00ceca44f63f5"
+  },
+  "squad_v2_test": {
+    "file_name": "flan_v1/squad_v2_test.json",
+    "file_sha1": "07ae580401db9e587b049a77a2165d806a118414"
+  },
+  "squad_v2_train": {
+    "file_name": "flan_v1/squad_v2_train.json",
+    "file_sha1": "2516e339b7a66d4574ef531e87a0475c3a55feb5"
+  },
+  "squad_v2_validation": {
+    "file_name": "flan_v1/squad_v2_validation.json",
+    "file_sha1": "674ee65dc36034ebd9964014a836081ca564d9ad"
+  },
+  "sst2_test": {
+    "file_name": "flan_v1/sst2_test.json",
+    "file_sha1": "15f1c61bb8d5cea48453acf5d04b2f3fa2191d62"
+  },
+  "sst2_train": {
+    "file_name": "flan_v1/sst2_train.json",
+    "file_sha1": "45e42be6d14b9f6930d4b392336e0265e07d307a"
+  },
+  "sst2_validation": {
+    "file_name": "flan_v1/sst2_validation.json",
+    "file_sha1": "810482cf935191050396d6422706479f37f7c922"
+  },
+  "story_cloze_test": {
+    "file_name": "flan_v1/story_cloze_test.json",
+    "file_sha1": "44b015351cfc2642ab34be6e63223475c21f0f73"
+  },
+  "story_cloze_train": {
+    "file_name": "flan_v1/story_cloze_train.json",
+    "file_sha1": "c4335a8fc30c4bf513cad60a27f00af94aa24667"
+  },
+  "story_cloze_validation": {
+    "file_name": "flan_v1/story_cloze_validation.json",
+    "file_sha1": "06ba3406ad0229943e1b3de515287ccc561a882c"
+  },
+  "stsb_test": {
+    "file_name": "flan_v1/stsb_test.json",
+    "file_sha1": "eb73d978c0846c9f31ed9827af5ea9c5810852f3"
+  },
+  "stsb_train": {
+    "file_name": "flan_v1/stsb_train.json",
+    "file_sha1": "fce545be4c382c98161037af5a7387da682ba4c0"
+  },
+  "stsb_validation": {
+    "file_name": "flan_v1/stsb_validation.json",
+    "file_sha1": "bd1af6ccee2e7a4c711cb3496ffeb9c19f151b8a"
+  },
+  "trec_test": {
+    "file_name": "flan_v1/trec_test.json",
+    "file_sha1": "c456587b0dc8de7b7adb2938d10bd9227fbb6e3d"
+  },
+  "trec_train": {
+    "file_name": "flan_v1/trec_train.json",
+    "file_sha1": "8a19668c3037ef27fe8b887a5ca7b75fbfb15654"
+  },
+  "trec_validation": {
+    "file_name": "flan_v1/trec_validation.json",
+    "file_sha1": "6ea5fc27cf85f956931bda3d1a92f4a1f9e8cc08"
+  },
+  "trivia_qa_test": {
+    "file_name": "flan_v1/trivia_qa_test.json",
+    "file_sha1": "d47cd1b59183425ab32e2dcbda64c0dfb28c3346"
+  },
+  "trivia_qa_train": {
+    "file_name": "flan_v1/trivia_qa_train.json",
+    "file_sha1": "79dbfbff064f42e615c7596bf21d0f89b117e6de"
+  },
+  "trivia_qa_validation": {
+    "file_name": "flan_v1/trivia_qa_validation.json",
+    "file_sha1": "13a76c29b82cd1a3a61adea2d977b7afd87785de"
+  },
+  "true_case_test": {
+    "file_name": "flan_v1/true_case_test.json",
+    "file_sha1": "260e7b8b0aa54d0021646f235c3cc32e5feb594e"
+  },
+  "true_case_train": {
+    "file_name": "flan_v1/true_case_train.json",
+    "file_sha1": "87dfba9269a535d9f7fd0a122590c04dc3d9a376"
+  },
+  "true_case_validation": {
+    "file_name": "flan_v1/true_case_validation.json",
+    "file_sha1": "0daa7424815f493ad2301e1b95b428e23da265b9"
+  },
+  "web_nlg_en_test": {
+    "file_name": "flan_v1/web_nlg_en_test.json",
+    "file_sha1": "18585e2ce5d26a0f53af0617ab01962887d45c34"
+  },
+  "web_nlg_en_train": {
+    "file_name": "flan_v1/web_nlg_en_train.json",
+    "file_sha1": "b7beb18a2bb1f0f96031e02ed84c3f4554c161d8"
+  },
+  "web_nlg_en_validation": {
+    "file_name": "flan_v1/web_nlg_en_validation.json",
+    "file_sha1": "146f81f7b6d36650da6f6a3a6e9d8519f1e7477e"
+  },
+  "wic_test": {
+    "file_name": "flan_v1/wic_test.json",
+    "file_sha1": "300296b9df2436e664524e77767ab3ca6a239453"
+  },
+  "wic_train": {
+    "file_name": "flan_v1/wic_train.json",
+    "file_sha1": "31f87f0050a9904d08d18acdabed0ef69a7b93fe"
+  },
+  "wic_validation": {
+    "file_name": "flan_v1/wic_validation.json",
+    "file_sha1": "d6d4d7cab35db9e25d6cc87e0070d742187ff85f"
+  },
+  "wiki_lingua_english_en_test": {
+    "file_name": "flan_v1/wiki_lingua_english_en_test.json",
+    "file_sha1": "32f61dbcd75b2f19c979a6b5f7eb2c68eb68490c"
+  },
+  "wiki_lingua_english_en_train": {
+    "file_name": "flan_v1/wiki_lingua_english_en_train.json",
+    "file_sha1": "094ed2e05556c7fde241458dd7a6555a8d5d2ea7"
+  },
+  "wiki_lingua_english_en_validation": {
+    "file_name": "flan_v1/wiki_lingua_english_en_validation.json",
+    "file_sha1": "f4232beedf3200c0dff45d7731d534f050fd3e01"
+  },
+  "winogrande_test": {
+    "file_name": "flan_v1/winogrande_test.json",
+    "file_sha1": "7c61b2cb9f5ba6a0066eab2fb37112f32e39391e"
+  },
+  "winogrande_train": {
+    "file_name": "flan_v1/winogrande_train.json",
+    "file_sha1": "5d6d5092d3bbd3124d232eab66ff9865bb2a34a9"
+  },
+  "winogrande_validation": {
+    "file_name": "flan_v1/winogrande_validation.json",
+    "file_sha1": "146229ec85c0bc573641f30bd940959391a9154a"
+  },
+  "wmt14_enfr_test": {
+    "file_name": "flan_v1/wmt14_enfr_test.json",
+    "file_sha1": "d8d14a075b7225f5798050238b89f48c6b48c015"
+  },
+  "wmt14_enfr_train": {
+    "file_name": "flan_v1/wmt14_enfr_train.json",
+    "file_sha1": "5b562e89eddcca1a0c88e4a11896768658713c2c"
+  },
+  "wmt14_enfr_validation": {
+    "file_name": "flan_v1/wmt14_enfr_validation.json",
+    "file_sha1": "a1ae76118b86b003ca52e096303a3f92ba43c76e"
+  },
+  "wmt16_translate_csen_test": {
+    "file_name": "flan_v1/wmt16_translate_csen_test.json",
+    "file_sha1": "5260fec025389ef973da345f2b9d6f42bbb534c3"
+  },
+  "wmt16_translate_csen_train": {
+    "file_name": "flan_v1/wmt16_translate_csen_train.json",
+    "file_sha1": "176a5dd557ba84e4dc7d075f4f1de76194245ea4"
+  },
+  "wmt16_translate_csen_validation": {
+    "file_name": "flan_v1/wmt16_translate_csen_validation.json",
+    "file_sha1": "67ad55fad1956a4fac4b73efec89687c2c0c18b3"
+  },
+  "wmt16_translate_deen_test": {
+    "file_name": "flan_v1/wmt16_translate_deen_test.json",
+    "file_sha1": "401c4703c3251a01d4d10f9be815712841bfefbd"
+  },
+  "wmt16_translate_deen_train": {
+    "file_name": "flan_v1/wmt16_translate_deen_train.json",
+    "file_sha1": "99389cef2b7f800721ac74400c029bae997dac1e"
+  },
+  "wmt16_translate_deen_validation": {
+    "file_name": "flan_v1/wmt16_translate_deen_validation.json",
+    "file_sha1": "88ca99c084c40cd3f4bf50e21a92d855f864f5d4"
+  },
+  "wmt16_translate_fien_test": {
+    "file_name": "flan_v1/wmt16_translate_fien_test.json",
+    "file_sha1": "cb18290572f1541dd9b2d871a43a28f7de1b839b"
+  },
+  "wmt16_translate_fien_train": {
+    "file_name": "flan_v1/wmt16_translate_fien_train.json",
+    "file_sha1": "8c1bc505ac0ce13c1b8875f512faee5cc8d3736d"
+  },
+  "wmt16_translate_fien_validation": {
+    "file_name": "flan_v1/wmt16_translate_fien_validation.json",
+    "file_sha1": "13e05eb2c583efbf947c32e31a294ddf4f5f0c6c"
+  },
+  "wmt16_translate_roen_test": {
+    "file_name": "flan_v1/wmt16_translate_roen_test.json",
+    "file_sha1": "a5370da1920facdae36fadc9493fef5526365ab0"
+  },
+  "wmt16_translate_roen_train": {
+    "file_name": "flan_v1/wmt16_translate_roen_train.json",
+    "file_sha1": "22b1b2a200f0fe3e0c279bd3b059f04cbd167cb3"
+  },
+  "wmt16_translate_roen_validation": {
+    "file_name": "flan_v1/wmt16_translate_roen_validation.json",
+    "file_sha1": "151e349e54fff75a5aeb604ba7d49174b90e2740"
+  },
+  "wmt16_translate_ruen_test": {
+    "file_name": "flan_v1/wmt16_translate_ruen_test.json",
+    "file_sha1": "e873f3b0529af583e0e9c3ad3a0b4ad9b276a49b"
+  },
+  "wmt16_translate_ruen_train": {
+    "file_name": "flan_v1/wmt16_translate_ruen_train.json",
+    "file_sha1": "c8d9e7391094c33b14726e5c92e20eeaa875c160"
+  },
+  "wmt16_translate_ruen_validation": {
+    "file_name": "flan_v1/wmt16_translate_ruen_validation.json",
+    "file_sha1": "c47b566ae326b4840ecdf420aad6e8f1e5c4c3c0"
+  },
+  "wmt16_translate_tren_test": {
+    "file_name": "flan_v1/wmt16_translate_tren_test.json",
+    "file_sha1": "adff72fd81bf694a8443622508b87ac3410e1c66"
+  },
+  "wmt16_translate_tren_train": {
+    "file_name": "flan_v1/wmt16_translate_tren_train.json",
+    "file_sha1": "2adc96d53344f062cf515894452bfceb1d832151"
+  },
+  "wmt16_translate_tren_validation": {
+    "file_name": "flan_v1/wmt16_translate_tren_validation.json",
+    "file_sha1": "723e0136c4464d0ad2db58a917e6e00c21e9b327"
+  },
+  "wnli_test": {
+    "file_name": "flan_v1/wnli_test.json",
+    "file_sha1": "3e388d366406d89248e791601dc425601bd7f5e8"
+  },
+  "wnli_train": {
+    "file_name": "flan_v1/wnli_train.json",
+    "file_sha1": "9647aeb13cc1756e9c286a4efe9179442903dd3e"
+  },
+  "wnli_validation": {
+    "file_name": "flan_v1/wnli_validation.json",
+    "file_sha1": "b948f8c5a14def250b688278efb7cef551284077"
+  },
+  "word_segment_test": {
+    "file_name": "flan_v1/word_segment_test.json",
+    "file_sha1": "637ffc6998d10c0b650b19b3dd912bcb85f06868"
+  },
+  "word_segment_train": {
+    "file_name": "flan_v1/word_segment_train.json",
+    "file_sha1": "d1a8f7b8e8972cdadaef423d7627692b0f11acc5"
+  },
+  "word_segment_validation": {
+    "file_name": "flan_v1/word_segment_validation.json",
+    "file_sha1": "9f7e520b7d2ac977fca465b5703a53af4ae02802"
+  },
+  "wsc_test": {
+    "file_name": "flan_v1/wsc_test.json",
+    "file_sha1": "edfc2bbe28a42f05a8c04652655cc6b594ad1054"
+  },
+  "wsc_train": {
+    "file_name": "flan_v1/wsc_train.json",
+    "file_sha1": "3745fd03e0f8e358d41e336b60928a1e662f0553"
+  },
+  "wsc_validation": {
+    "file_name": "flan_v1/wsc_validation.json",
+    "file_sha1": "2a0d3026430271061e65fceffe914acb01c10571"
+  },
+  "xsum_test": {
+    "file_name": "flan_v1/xsum_test.json",
+    "file_sha1": "ab6149f724aa541340e549784f9f055a3256b05c"
+  },
+  "xsum_train": {
+    "file_name": "flan_v1/xsum_train.json",
+    "file_sha1": "96bdea6709c8eb9814951c53649758fa1c3a9d61"
+  },
+  "xsum_validation": {
+    "file_name": "flan_v1/xsum_validation.json",
+    "file_sha1": "b901cbec9c0a25191df8ac6c288c3b4b2738104a"
+  },
+  "yelp_polarity_reviews_test": {
+    "file_name": "flan_v1/yelp_polarity_reviews_test.json",
+    "file_sha1": "8c144ccd7295035b9053b66b634dbb8354b008fa"
+  },
+  "yelp_polarity_reviews_train": {
+    "file_name": "flan_v1/yelp_polarity_reviews_train.json",
+    "file_sha1": "ca9377ee99fd7da51e072bfd9c98c506bcb22207"
+  },
+  "yelp_polarity_reviews_validation": {
+    "file_name": "flan_v1/yelp_polarity_reviews_validation.json",
+    "file_sha1": "da836d03f69c23f181045c7a33edcaa75007531b"
+  },
+  "self_cognition": {
+    "file_name": "self_cognition.json",
+    "file_sha1": "6287a730ada924fc5d9eadc6d8f865e01b7a6f67"
+  },
+  "oaast_sft": {
+    "file_name": "oaast_sft.json",
+    "file_sha1": "7baf5d43e67a91f9bbdf4e400dbe033b87e9757e",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "oaast_sft_zh": {
+    "file_name": "oaast_sft_zh.json",
+    "file_sha1": "a6a91f18f80f37b10ded9cf633fb50c033bf7b9f",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "lima": {
+    "file_name": "lima.json",
+    "file_sha1": "9db59f6b7007dc4b17529fc63379b9cd61640f37",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "glaive_toolcall": {
+    "file_name": "glaive_toolcall_10k.json",
+    "file_sha1": "a6917b85d209df98d31fdecb253c79ebc440f6f3",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "example": {
+    "script_url": "example_dataset",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "guanaco": {
+    "hf_hub_url": "JosephusCheung/GuanacoDataset",
+    "ms_hub_url": "AI-ModelScope/GuanacoDataset"
+  },
+  "belle_2m": {
+    "hf_hub_url": "BelleGroup/train_2M_CN",
+    "ms_hub_url": "AI-ModelScope/train_2M_CN"
+  },
+  "belle_1m": {
+    "hf_hub_url": "BelleGroup/train_1M_CN",
+    "ms_hub_url": "AI-ModelScope/train_1M_CN"
+  },
+  "belle_0.5m": {
+    "hf_hub_url": "BelleGroup/train_0.5M_CN",
+    "ms_hub_url": "AI-ModelScope/train_0.5M_CN"
+  },
+  "belle_dialog": {
+    "hf_hub_url": "BelleGroup/generated_chat_0.4M",
+    "ms_hub_url": "AI-ModelScope/generated_chat_0.4M"
+  },
+  "belle_math": {
+    "hf_hub_url": "BelleGroup/school_math_0.25M",
+    "ms_hub_url": "AI-ModelScope/school_math_0.25M"
+  },
+  "belle_multiturn": {
+    "script_url": "belle_multiturn",
+    "formatting": "sharegpt"
+  },
+  "ultra_chat": {
+    "script_url": "ultra_chat",
+    "formatting": "sharegpt"
+  },
+  "open_platypus": {
+    "hf_hub_url": "garage-bAInd/Open-Platypus",
+    "ms_hub_url": "AI-ModelScope/Open-Platypus"
+  },
+  "codealpaca": {
+    "hf_hub_url": "sahil2801/CodeAlpaca-20k",
+    "ms_hub_url": "AI-ModelScope/CodeAlpaca-20k"
+  },
+  "alpaca_cot": {
+    "hf_hub_url": "QingyiSi/Alpaca-CoT",
+    "ms_hub_url": "AI-ModelScope/Alpaca-CoT"
+  },
+  "openorca": {
+    "hf_hub_url": "Open-Orca/OpenOrca",
+    "ms_hub_url": "AI-ModelScope/OpenOrca",
+    "columns": {
+      "prompt": "question",
+      "response": "response",
+      "system": "system_prompt"
+    }
+  },
+  "orca_rlhf": {
+    "file_name": "orca_rlhf.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "question",
+      "response": "answer",
+      "system": "system"
+    }
+  },
+  "orca_pairs": {
+    "hf_hub_url": "Intel/orca_dpo_pairs",
+    "ranking": true,
+    "columns": {
+      "prompt": "question",
+      "chosen": "chosen",
+      "rejected": "rejected",
+      "system": "system"
+    }
+  },
+  "slimorca": {
+    "hf_hub_url": "Open-Orca/SlimOrca",
+    "formatting": "sharegpt"
+  },
+  "mathinstruct": {
+    "hf_hub_url": "TIGER-Lab/MathInstruct",
+    "ms_hub_url": "AI-ModelScope/MathInstruct",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "firefly": {
+    "hf_hub_url": "YeungNLP/firefly-train-1.1M",
+    "columns": {
+      "prompt": "input",
+      "response": "target"
+    }
+  },
+  "wikiqa": {
+    "hf_hub_url": "wiki_qa",
+    "columns": {
+      "prompt": "question",
+      "response": "answer"
+    }
+  },
+  "webqa": {
+    "hf_hub_url": "suolyer/webqa",
+    "ms_hub_url": "AI-ModelScope/webqa",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "webnovel": {
+    "hf_hub_url": "zxbsmk/webnovel_cn",
+    "ms_hub_url": "AI-ModelScope/webnovel_cn"
+  },
+  "nectar_sft": {
+    "hf_hub_url": "mlinmg/SFT-Nectar",
+    "ms_hub_url": "AI-ModelScope/SFT-Nectar"
+  },
+  "deepctrl": {
+    "ms_hub_url": "deepctrl/deepctrl-sft-data"
+  },
+  "adgen": {
+    "hf_hub_url": "HasturOfficial/adgen",
+    "ms_hub_url": "AI-ModelScope/adgen",
+    "columns": {
+      "prompt": "content",
+      "response": "summary"
+    }
+  },
+  "sharegpt_hyper": {
+    "hf_hub_url": "totally-not-an-llm/sharegpt-hyperfiltered-3k",
+    "formatting": "sharegpt"
+  },
+  "sharegpt4": {
+    "hf_hub_url": "shibing624/sharegpt_gpt4",
+    "ms_hub_url": "AI-ModelScope/sharegpt_gpt4",
+    "formatting": "sharegpt"
+  },
+  "ultrachat_200k": {
+    "hf_hub_url": "HuggingFaceH4/ultrachat_200k",
+    "ms_hub_url": "AI-ModelScope/ultrachat_200k",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    },
+    "formatting": "sharegpt"
+  },
+  "agent_instruct": {
+    "hf_hub_url": "THUDM/AgentInstruct",
+    "ms_hub_url": "ZhipuAI/AgentInstruct",
+    "formatting": "sharegpt"
+  },
+  "lmsys_chat": {
+    "hf_hub_url": "lmsys/lmsys-chat-1m",
+    "ms_hub_url": "AI-ModelScope/lmsys-chat-1m",
+    "columns": {
+      "messages": "conversation"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "assistant"
+    },
+    "formatting": "sharegpt"
+  },
+  "evol_instruct": {
+    "hf_hub_url": "WizardLM/WizardLM_evol_instruct_V2_196k",
+    "ms_hub_url": "AI-ModelScope/WizardLM_evol_instruct_V2_196k",
+    "formatting": "sharegpt"
+  },
+  "oasst_de": {
+    "hf_hub_url": "mayflowergmbh/oasst_de"
+  },
+  "dolly_15k_de": {
+    "hf_hub_url": "mayflowergmbh/dolly-15k_de"
+  },
+  "alpaca-gpt4_de": {
+    "hf_hub_url": "mayflowergmbh/alpaca-gpt4_de"
+  },
+  "openschnabeltier_de": {
+    "hf_hub_url": "mayflowergmbh/openschnabeltier_de"
+  },
+  "evol_instruct_de": {
+    "hf_hub_url": "mayflowergmbh/evol-instruct_de"
+  },
+  "dolphin_de": {
+    "hf_hub_url": "mayflowergmbh/dolphin_de"
+  },
+  "booksum_de": {
+    "hf_hub_url": "mayflowergmbh/booksum_de"
+  },
+  "airoboros_de": {
+    "hf_hub_url": "mayflowergmbh/airoboros-3.0_de"
+  },
+  "ultrachat_de": {
+    "hf_hub_url": "mayflowergmbh/ultra-chat_de"
+  },
+  "hh_rlhf_en": {
+    "script_url": "hh_rlhf_en",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "oaast_rm": {
+    "file_name": "oaast_rm.json",
+    "file_sha1": "622d420e9b70003b210618253bd3d9d2891d86cb",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "oaast_rm_zh": {
+    "file_name": "oaast_rm_zh.json",
+    "file_sha1": "1065af1f3784dd61be5e79713a35f427b713a232",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "comparison_gpt4_en": {
+    "file_name": "comparison_gpt4_data_en.json",
+    "file_sha1": "96fa18313544e22444fe20eead7754b17da452ae",
+    "ranking": true
+  },
+  "comparison_gpt4_zh": {
+    "file_name": "comparison_gpt4_data_zh.json",
+    "file_sha1": "515b18ed497199131ddcc1af950345c11dc5c7fd",
+    "ranking": true
+  },
+  "nectar_rm": {
+    "hf_hub_url": "mlinmg/RLAIF-Nectar",
+    "ms_hub_url": "AI-ModelScope/RLAIF-Nectar",
+    "ranking": true
+  },
+  "orca_dpo_de" : {
+    "hf_hub_url": "mayflowergmbh/intel_orca_dpo_pairs_de",
+    "ranking": true
+  },
+  "wiki_demo": {
+    "file_name": "wiki_demo.txt",
+    "file_sha1": "e70375e28eda542a90c68213640cc371898ce181",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "c4_demo": {
+    "file_name": "c4_demo.json",
+    "file_sha1": "a5a0c86759732f9a5238e447fecd74f28a66cca8",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "refinedweb": {
+    "hf_hub_url": "tiiuae/falcon-refinedweb",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "redpajama_v2": {
+    "hf_hub_url": "togethercomputer/RedPajama-Data-V2",
+    "columns": {
+      "prompt": "raw_content"
+    },
+    "subset": "default"
+  },
+  "wikipedia_en": {
+    "hf_hub_url": "olm/olm-wikipedia-20221220",
+    "ms_hub_url": "AI-ModelScope/olm-wikipedia-20221220",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "wikipedia_zh": {
+    "hf_hub_url": "pleisto/wikipedia-cn-20230720-filtered",
+    "ms_hub_url": "AI-ModelScope/wikipedia-cn-20230720-filtered",
+    "columns": {
+      "prompt": "completion"
+    }
+  },
+  "pile": {
+    "hf_hub_url": "EleutherAI/pile",
+    "ms_hub_url": "AI-ModelScope/pile",
+    "columns": {
+      "prompt": "text"
+    },
+    "subset": "all"
+  },
+  "skypile": {
+    "hf_hub_url": "Skywork/SkyPile-150B",
+    "ms_hub_url": "AI-ModelScope/SkyPile-150B",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "the_stack": {
+    "hf_hub_url": "bigcode/the-stack",
+    "ms_hub_url": "AI-ModelScope/the-stack",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "starcoder_python": {
+    "hf_hub_url": "bigcode/starcoderdata",
+    "ms_hub_url": "AI-ModelScope/starcoderdata",
+    "columns": {
+      "prompt": "content"
+    },
+    "folder": "python"
+  }
+}
