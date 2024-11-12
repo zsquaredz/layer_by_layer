@@ -3,7 +3,7 @@
 </p>
 
 # Layer by Layer: Uncovering Where Multi-Task Learning Happens in Instruction-Tuned Large Language Models
-This repository contains code for the paper "[Layer by Layer: Uncovering Where Multi-Task Learning Happens in Instruction-Tuned Large Language Models](https://zsquaredz.github.io)" which appears in EMNLP 2024 main conference.
+This repository contains code for the paper "[Layer by Layer: Uncovering Where Multi-Task Learning Happens in Instruction-Tuned Large Language Models](https://aclanthology.org/2024.emnlp-main.847.pdf)" which appears in EMNLP 2024 main conference.
 
 ## Creating Conda Environment
 The following instructions will assume that conda is already installed on your system.
@@ -79,11 +79,21 @@ You can change the `task` and `layer` variables to run the analysis for a differ
 
 ## Citation
 ```
-@inproceedings{zhao-etal-2022-understanding,
-    title = "Layer by Layer: Uncovering Where Multi-Task Learning Happens in Instruction-Tuned Large Language Modelss",
+@inproceedings{zhao-etal-2024-layer,
+    title = "Layer by Layer: Uncovering Where Multi-Task Learning Happens in Instruction-Tuned Large Language Models",
     author = "Zhao, Zheng  and
       Ziser, Yftah  and
-      Cohen, Shay",
+      Cohen, Shay B",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
     year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.847",
+    pages = "15195--15214",
 }
+
 ```
